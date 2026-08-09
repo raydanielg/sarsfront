@@ -2,9 +2,11 @@
 
 import * as React from "react"
 import Link from "next/link"
-import { IconSearch } from "@tabler/icons-react"
+import { useParams } from "next/navigation"
+import { IconSearch, IconArrowLeft, IconMapPin } from "@tabler/icons-react"
 
 import { Input } from "@workspace/ui/components/input"
+import { Button } from "@workspace/ui/components/button"
 import {
   Table,
   TableBody,
@@ -13,7 +15,7 @@ import {
 } from "@workspace/ui/components/table"
 import { SiteHeader } from "@/components/site-header"
 import { TableSkeleton, SearchSkeleton } from "@/components/loading-states"
-import { regions, type Region } from "@/lib/regions"
+import { getRegionByCode, getDistricts, type District } from "@/lib/regions"
 
 const cellColors = [
   "bg-sky-100 hover:bg-sky-200 dark:bg-sky-950/50 dark:hover:bg-sky-900/60",
@@ -21,23 +23,28 @@ const cellColors = [
   "bg-green-100 hover:bg-green-200 dark:bg-green-950/50 dark:hover:bg-green-900/60",
 ]
 
-export default function Page() {
+export default function DistrictsPage() {
+  const params = useParams()
+  const regionCode = (params.code as string)?.replace("reg_", "") ?? ""
+  const region = getRegionByCode(regionCode)
+  const districts = getDistricts(regionCode)
+
   const [search, setSearch] = React.useState("")
   const [loading, setLoading] = React.useState(true)
 
   React.useEffect(() => {
-    const timer = setTimeout(() => setLoading(false), 600)
+    const timer = setTimeout(() => setLoading(false), 500)
     return () => clearTimeout(timer)
   }, [])
 
   const filtered = React.useMemo(() => {
-    return regions.filter((r) =>
-      r.name.toLowerCase().includes(search.toLowerCase())
+    return districts.filter((d) =>
+      d.name.toLowerCase().includes(search.toLowerCase())
     )
-  }, [search])
+  }, [districts, search])
 
   const rows = React.useMemo(() => {
-    const result: (Region | null)[][] = []
+    const result: (District | null)[][] = []
     for (let i = 0; i < filtered.length; i += 3) {
       result.push([
         filtered[i] ?? null,
@@ -48,11 +55,41 @@ export default function Page() {
     return result
   }, [filtered])
 
+  if (!region) {
+    return (
+      <div className="min-h-svh bg-background">
+        <SiteHeader />
+        <div className="mx-auto max-w-4xl px-4 py-16 text-center">
+          <h2 className="font-heading text-xl font-semibold">Mkoa haujapatikana</h2>
+          <p className="mt-2 text-sm text-muted-foreground">
+            Mkoa uliouchagua haupo kwenye orodha.
+          </p>
+          <Button render={<Link href="/" />} nativeButton={false} variant="outline" className="mt-4 gap-2">
+            <IconArrowLeft className="size-4" />
+            Rudi kwenye mikoa
+          </Button>
+        </div>
+      </div>
+    )
+  }
+
   return (
     <div className="min-h-svh bg-background">
       <SiteHeader />
 
       <section className="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
+        {/* Back button */}
+        <Button
+          render={<Link href="/" />}
+          nativeButton={false}
+          variant="ghost"
+          size="sm"
+          className="mb-4 gap-1.5"
+        >
+          <IconArrowLeft className="size-4" />
+          Rudi kwenye mikoa
+        </Button>
+
         {/* NECTA Header */}
         <div className="mb-6 text-center">
           <h2 className="font-heading text-xl font-bold text-primary sm:text-2xl">
@@ -61,6 +98,12 @@ export default function Page() {
           <h3 className="mt-2 text-base font-semibold underline decoration-primary/50 underline-offset-4 sm:text-lg">
             STANDARD FOUR NATIONAL ASSESSMENT (SFNA) &mdash; 2024 RESULTS
           </h3>
+          <div className="mt-3 flex items-center justify-center gap-2">
+            <IconMapPin className="size-4 text-primary" />
+            <span className="text-sm font-medium text-foreground">
+              Mkoa wa {region.name}
+            </span>
+          </div>
         </div>
 
         <hr className="mb-6 border-border" />
@@ -74,7 +117,7 @@ export default function Page() {
               <IconSearch className="absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-muted-foreground" />
               <Input
                 type="search"
-                placeholder="Tafuta mkoa..."
+                placeholder="Tafuta wilaya..."
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
                 className="h-11 w-full rounded-lg pl-10 pr-3 text-sm"
@@ -83,9 +126,9 @@ export default function Page() {
           </div>
         )}
 
-        {/* Regions Table */}
+        {/* Districts Table */}
         {loading ? (
-          <TableSkeleton rows={9} cols={3} />
+          <TableSkeleton rows={4} cols={3} />
         ) : (
           <Table className="border-x-0 border-y">
           <TableBody>
@@ -95,23 +138,23 @@ export default function Page() {
                   colSpan={3}
                   className="h-32 text-center text-muted-foreground"
                 >
-                  Hakuna mkoa uliopatikana kwa &ldquo;{search}&rdquo;
+                  Hakuna wilaya iliopatikana kwa &ldquo;{search}&rdquo;
                 </TableCell>
               </TableRow>
             ) : (
               rows.map((row, i) => (
                 <TableRow key={i} className="border-border/60">
-                  {row.map((region, j) => (
+                  {row.map((district, j) => (
                     <TableCell
                       key={j}
                       className={`border border-border/60 px-3 py-3 align-middle transition-colors ${cellColors[j]}`}
                     >
-                      {region ? (
+                      {district ? (
                         <Link
-                          href={`/results/reg_${region.code}`}
+                          href={`/results/reg_${regionCode}/${district.code}`}
                           className="text-sm font-medium text-primary transition-colors hover:text-primary/80 dark:text-primary dark:hover:text-primary/90 underline-offset-2 hover:underline"
                         >
-                          {region.name}
+                          {district.name}
                         </Link>
                       ) : null}
                     </TableCell>
@@ -124,7 +167,7 @@ export default function Page() {
         )}
 
         <p className="mt-6 text-center text-xs text-muted-foreground">
-          Result Management System &middot; Tanzania &middot;{" "}
+          Result Management System &middot; {region.name} &middot;{" "}
           {new Date().getFullYear()}
         </p>
       </section>
