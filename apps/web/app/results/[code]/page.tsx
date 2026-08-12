@@ -3,7 +3,7 @@
 import * as React from "react"
 import Link from "next/link"
 import { useParams } from "next/navigation"
-import { IconSearch, IconArrowLeft, IconMapPin, IconFileText } from "@tabler/icons-react"
+import { IconSearch, IconArrowLeft, IconMapPin, IconFileText, IconChevronRight } from "@tabler/icons-react"
 
 import { Input } from "@workspace/ui/components/input"
 import { Button } from "@workspace/ui/components/button"
@@ -20,7 +20,6 @@ import {
   getDistricts,
   getRegionSummaries,
   type District,
-  type SummaryPdf,
 } from "@/lib/regions"
 
 function districtSlug(name: string) {
@@ -167,29 +166,26 @@ export default function DistrictsPage() {
         </Table>
         )}
 
-        {/* Region Summary PDFs */}
+        {/* Summary link */}
         {!loading && summaryPdfs.length > 0 && (
-          <div className="mt-8">
-            <div className="mb-3 flex items-center gap-2">
-              <IconFileText className="size-4 text-primary" />
-              <span className="text-sm font-semibold text-foreground">
-                Muhtasari wa Mkoa wa {region.name}
-              </span>
-            </div>
-            <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
-              {summaryPdfs.map((pdf: SummaryPdf) => (
-                <Link
-                  key={pdf.pdfPath}
-                  href={`/results/reg_${regionCode}/summary/${encodeURIComponent(pdf.fileName)}`}
-                  className="flex items-center gap-3 rounded-lg border border-border/60 bg-card px-4 py-3 text-sm transition-all hover:shadow-md"
-                >
-                  <IconFileText className="size-4 shrink-0 text-muted-foreground" />
-                  <span className="min-w-0 flex-1 truncate font-medium text-primary underline-offset-2 hover:underline">
-                    {pdf.name}
-                  </span>
-                </Link>
-              ))}
-            </div>
+          <div className="mt-6">
+            <Link
+              href={`/results/reg_${regionCode}/summary`}
+              className="flex items-center gap-3 rounded-xl border border-border/60 bg-card px-4 py-3.5 text-sm transition-all hover:shadow-md"
+            >
+              <div className="flex size-9 shrink-0 items-center justify-center rounded-lg bg-primary/10">
+                <IconFileText className="size-4 text-primary" />
+              </div>
+              <div className="min-w-0 flex-1">
+                <span className="block font-semibold text-foreground">
+                  Muhtasari wa Mkoa wa {region.name}
+                </span>
+                <span className="block text-xs text-muted-foreground">
+                  {summaryPdfs.length} muhtasari wa PDFs
+                </span>
+              </div>
+              <IconChevronRight className="size-5 shrink-0 text-muted-foreground" />
+            </Link>
           </div>
         )}
 
