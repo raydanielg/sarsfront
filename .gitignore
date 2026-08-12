@@ -44,7 +44,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Region PDFs - ignore by default, unignore per region when pushing
-# Remove the line for the region you want to push
-public/regions/MWANZA REGION/**/*.pdf
-public/regions/SHINYANGA REGION/**/*.pdf
+# Region PDFs - ignore all by default
+# To push a specific region, add a negation rule like:
+# !apps/web/public/regions/MWANZA REGION/**/*.pdf
+apps/web/public/regions/**/*.pdf
