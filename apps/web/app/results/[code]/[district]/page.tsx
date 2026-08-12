@@ -3,7 +3,7 @@
 import * as React from "react"
 import Link from "next/link"
 import { useParams } from "next/navigation"
-import { IconSearch, IconArrowLeft, IconMapPin, IconFileText, IconChevronRight } from "@tabler/icons-react"
+import { IconSearch, IconArrowLeft, IconMapPin } from "@tabler/icons-react"
 
 import { Input } from "@workspace/ui/components/input"
 import { Button } from "@workspace/ui/components/button"
@@ -13,7 +13,6 @@ import {
   getRegionByCode,
   getDistrict,
   getSchools,
-  getDistrictSummaries,
   type School,
 } from "@/lib/regions"
 
@@ -38,7 +37,6 @@ export default function SchoolsPage() {
   const region = getRegionByCode(regionCode)
   const district = getDistrict(regionCode, districtSlugParam)
   const schools = getSchools(regionCode, districtSlugParam)
-  const districtSummaries = getDistrictSummaries(regionCode, districtSlugParam)
 
   const [search, setSearch] = React.useState("")
   const [activeLetter, setActiveLetter] = React.useState<string | null>(null)
@@ -198,29 +196,6 @@ export default function SchoolsPage() {
                 ))}
               </div>
             ))}
-          </div>
-        )}
-
-        {/* District Summary link */}
-        {!loading && districtSummaries.length > 0 && (
-          <div className="mt-6">
-            <Link
-              href={`/results/reg_${regionCode}/${districtSlugParam}/summary`}
-              className="flex items-center gap-3 rounded-xl border border-border/60 bg-card px-4 py-3.5 text-sm transition-all hover:shadow-md"
-            >
-              <div className="flex size-9 shrink-0 items-center justify-center rounded-lg bg-primary/10">
-                <IconFileText className="size-4 text-primary" />
-              </div>
-              <div className="min-w-0 flex-1">
-                <span className="block font-semibold text-foreground">
-                  Muhtasari wa Wilaya ya {district.name}
-                </span>
-                <span className="block text-xs text-muted-foreground">
-                  {districtSummaries.length} muhtasari wa PDFs
-                </span>
-              </div>
-              <IconChevronRight className="size-5 shrink-0 text-muted-foreground" />
-            </Link>
           </div>
         )}
 

@@ -3,7 +3,7 @@
 import * as React from "react"
 import Link from "next/link"
 import { useParams } from "next/navigation"
-import { IconSearch, IconArrowLeft, IconMapPin, IconFileText, IconChevronRight } from "@tabler/icons-react"
+import { IconSearch, IconArrowLeft, IconMapPin } from "@tabler/icons-react"
 
 import { Input } from "@workspace/ui/components/input"
 import { Button } from "@workspace/ui/components/button"
@@ -18,7 +18,6 @@ import { TableSkeleton, SearchSkeleton } from "@/components/loading-states"
 import {
   getRegionByCode,
   getDistricts,
-  getRegionSummaries,
   type District,
 } from "@/lib/regions"
 
@@ -37,7 +36,6 @@ export default function DistrictsPage() {
   const regionCode = (params.code as string)?.replace("reg_", "") ?? ""
   const region = getRegionByCode(regionCode)
   const districts = getDistricts(regionCode)
-  const summaryPdfs = getRegionSummaries(regionCode)
 
   const [search, setSearch] = React.useState("")
   const [loading, setLoading] = React.useState(true)
@@ -164,29 +162,6 @@ export default function DistrictsPage() {
             )}
           </TableBody>
         </Table>
-        )}
-
-        {/* Summary link */}
-        {!loading && summaryPdfs.length > 0 && (
-          <div className="mt-6">
-            <Link
-              href={`/results/reg_${regionCode}/summary`}
-              className="flex items-center gap-3 rounded-xl border border-border/60 bg-card px-4 py-3.5 text-sm transition-all hover:shadow-md"
-            >
-              <div className="flex size-9 shrink-0 items-center justify-center rounded-lg bg-primary/10">
-                <IconFileText className="size-4 text-primary" />
-              </div>
-              <div className="min-w-0 flex-1">
-                <span className="block font-semibold text-foreground">
-                  Muhtasari wa Mkoa wa {region.name}
-                </span>
-                <span className="block text-xs text-muted-foreground">
-                  {summaryPdfs.length} muhtasari wa PDFs
-                </span>
-              </div>
-              <IconChevronRight className="size-5 shrink-0 text-muted-foreground" />
-            </Link>
-          </div>
         )}
 
       </section>
