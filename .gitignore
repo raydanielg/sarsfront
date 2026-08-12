@@ -49,3 +49,4 @@ next-env.d.ts
 # !apps/web/public/regions/MWANZA REGION/**/*.pdf
 apps/web/public/regions/**/*.pdf
 !apps/web/public/regions/MWANZA REGION/**/*.pdf
+!apps/web/public/regions/SHINYANGA REGION/**/*.pdf
