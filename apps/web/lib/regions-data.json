@@ -8022,6 +8022,12 @@
               "fileName": "PS170200117 - MLIMANI PRIMARY SCHOOL.pdf"
             },
             {
+              "name": "mm",
+              "examNo": "",
+              "pdfPath": "/regions/SHINYANGA REGION/KISHAPU 7/mm.pdf",
+              "fileName": "mm.pdf"
+            },
+            {
               "name": "MPUMBULA PRIMARY SCHOOL",
               "examNo": "PS17020066",
               "pdfPath": "/regions/SHINYANGA REGION/KISHAPU 7/PS17020066 - MPUMBULA PRIMARY SCHOOL.pdf",
@@ -8388,7 +8394,7 @@
               "fileName": "PS170200125 - WIZUNZA PRIMARY SCHOOL.pdf"
             }
           ],
-          "schoolCount": 130
+          "schoolCount": 131
         },
         {
           "name": "MSALALA",
@@ -11089,6 +11095,11 @@
           "fileName": "SHINYANGA DC UFAULU WA SHULE ZA SERIKALI.pdf"
         },
         {
+          "name": "SHINYANGA MC MPANGILIO WA UFAULU WA  SHULE JUMLA",
+          "pdfPath": "/regions/SHINYANGA REGION/SHY ALL SUMMARY/SHINYANGA MC MPANGILIO WA UFAULU WA  SHULE JUMLA.pdf",
+          "fileName": "SHINYANGA MC MPANGILIO WA UFAULU WA  SHULE JUMLA.pdf"
+        },
+        {
           "name": "USHETU DC MPANGILIO WA UFAULU WA SHULE JUMLA",
           "pdfPath": "/regions/SHINYANGA REGION/SHY ALL SUMMARY/USHETU DC MPANGILIO WA UFAULU WA SHULE JUMLA.pdf",
           "fileName": "USHETU DC MPANGILIO WA UFAULU WA SHULE JUMLA.pdf"
@@ -11146,6 +11157,13 @@
             "name": "SHINYANGA DC UFAULU WA SHULE ZA SERIKALI",
             "pdfPath": "/regions/SHINYANGA REGION/SHY ALL SUMMARY/SHINYANGA DC UFAULU WA SHULE ZA SERIKALI.pdf",
             "fileName": "SHINYANGA DC UFAULU WA SHULE ZA SERIKALI.pdf"
+          }
+        ],
+        "SHINYANGA MC": [
+          {
+            "name": "SHINYANGA MC MPANGILIO WA UFAULU WA  SHULE JUMLA",
+            "pdfPath": "/regions/SHINYANGA REGION/SHY ALL SUMMARY/SHINYANGA MC MPANGILIO WA UFAULU WA  SHULE JUMLA.pdf",
+            "fileName": "SHINYANGA MC MPANGILIO WA UFAULU WA  SHULE JUMLA.pdf"
           }
         ],
         "USHETU": [
