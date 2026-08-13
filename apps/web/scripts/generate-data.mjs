@@ -20,12 +20,28 @@ function parseSchoolFileName(fileName) {
   // or "ps1308036 - KAMISA PRIMARY SCHOOL.pdf"
   // or "PS 1302249 - RIPEN PRIMARY SCHOOL.pdf" (space between PS and number)
   // or "PS.1302035 - IBINDO PRIMARY SCHOOL.pdf" (dot between PS and number)
+  // or "PS_1305132 - NYABUHELE PRIMARY SCHOOL.pdf" (underscore between PS and number)
   // or "PS130202J9 - GATULI PRIMARY SCHOOL.pdf" (letter mixed in number)
+  // or "1 - BUBUNGU PRIMARY SCHOOL.pdf" (plain number, no PS prefix)
   const base = fileName.replace(/\.pdf$/i, "")
-  const match = base.match(/^([A-Za-z]{2})[\s.]?\s*([A-Za-z0-9]+)\s*[-`]\s*(.+)$/)
+
+  // Skip non-school files (too short, no dash, etc.)
+  if (base.length < 5 || !base.includes("-")) {
+    return null
+  }
+
+  // Try PS prefix pattern with optional separator
+  let match = base.match(/^([A-Za-z]{2})[\s._]?\s*([A-Za-z0-9]+)\s*[-`]\s*(.+)$/)
   if (match) {
     return { examNo: (match[1] + match[2]).toUpperCase(), name: match[3].trim() }
   }
+
+  // Try plain number pattern: "1 - BUBUNGU PRIMARY SCHOOL"
+  match = base.match(/^(\d+)\s*[-`]\s*(.+)$/)
+  if (match) {
+    return { examNo: match[1], name: match[2].trim() }
+  }
+
   // Fallback: just use the whole name
   return { examNo: "", name: base.trim() }
 }
@@ -65,6 +81,7 @@ function generateData() {
       const schools = pdfFiles
         .map((f) => {
           const parsed = parseSchoolFileName(f)
+          if (!parsed) return null
           const relativePath = `/regions/${regionFolder}/${districtFolder}/${f}`
           return {
             name: parsed.name,
@@ -73,6 +90,7 @@ function generateData() {
             fileName: f,
           }
         })
+        .filter((s) => s !== null)
         .sort((a, b) => a.name.localeCompare(b.name))
 
       districts.push({

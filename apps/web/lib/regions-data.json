@@ -4015,6 +4015,12 @@
               "fileName": "PS1305091 - NYABUGENI PRIMARY SCHOOL.pdf"
             },
             {
+              "name": "NYABUHELE PRIMARY SCHOOL",
+              "examNo": "PS1305132",
+              "pdfPath": "/regions/MWANZA REGION/MISUNGWI 7/PS_1305132 - NYABUHELE PRIMARY SCHOOL.pdf",
+              "fileName": "PS_1305132 - NYABUHELE PRIMARY SCHOOL.pdf"
+            },
+            {
               "name": "NYABUSALU PRIMARY SCHOOL",
               "examNo": "PS1305116",
               "pdfPath": "/regions/MWANZA REGION/MISUNGWI 7/PS 1305116 - NYABUSALU PRIMARY SCHOOL.pdf",
@@ -4079,12 +4085,6 @@
               "examNo": "PS1305105",
               "pdfPath": "/regions/MWANZA REGION/MISUNGWI 7/PS1305105 - PAMBANI PRIMARY SCHOOL.pdf",
               "fileName": "PS1305105 - PAMBANI PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "PS_1305132 - NYABUHELE PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/MWANZA REGION/MISUNGWI 7/PS_1305132 - NYABUHELE PRIMARY SCHOOL.pdf",
-              "fileName": "PS_1305132 - NYABUHELE PRIMARY SCHOOL.pdf"
             },
             {
               "name": "RISHOR EM PRIMARY SCHOOL",
@@ -8022,12 +8022,6 @@
               "fileName": "PS170200117 - MLIMANI PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "mm",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/KISHAPU 7/mm.pdf",
-              "fileName": "mm.pdf"
-            },
-            {
               "name": "MPUMBULA PRIMARY SCHOOL",
               "examNo": "PS17020066",
               "pdfPath": "/regions/SHINYANGA REGION/KISHAPU 7/PS17020066 - MPUMBULA PRIMARY SCHOOL.pdf",
@@ -8394,7 +8388,7 @@
               "fileName": "PS170200125 - WIZUNZA PRIMARY SCHOOL.pdf"
             }
           ],
-          "schoolCount": 131
+          "schoolCount": 130
         },
         {
           "name": "MSALALA",
@@ -10330,724 +10324,724 @@
           "folderName": "USHETU 7",
           "schools": [
             {
-              "name": "1 - BUBUNGU  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/1 - BUBUNGU  PRIMARY SCHOOL.pdf",
-              "fileName": "1 - BUBUNGU  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "10 - BUNANDA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/10 - BUNANDA  PRIMARY SCHOOL.pdf",
-              "fileName": "10 - BUNANDA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "100 - SALAWE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/100 - SALAWE  PRIMARY SCHOOL.pdf",
-              "fileName": "100 - SALAWE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "101 - BUGOSHI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/101 - BUGOSHI  PRIMARY SCHOOL.pdf",
-              "fileName": "101 - BUGOSHI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "102 - NYAMBESHI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/102 - NYAMBESHI  PRIMARY SCHOOL.pdf",
-              "fileName": "102 - NYAMBESHI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "103 - MIKWA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/103 - MIKWA  PRIMARY SCHOOL.pdf",
-              "fileName": "103 - MIKWA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "104 - KAWEKAMO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/104 - KAWEKAMO  PRIMARY SCHOOL.pdf",
-              "fileName": "104 - KAWEKAMO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "105 - MLIZA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/105 - MLIZA  PRIMARY SCHOOL.pdf",
-              "fileName": "105 - MLIZA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "106 - STELLA MATUTINA   PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/106 - STELLA MATUTINA   PRIMARY SCHOOL.pdf",
-              "fileName": "106 - STELLA MATUTINA   PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "107 - NGILIMBA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/107 - NGILIMBA  PRIMARY SCHOOL.pdf",
-              "fileName": "107 - NGILIMBA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "108 - NABE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/108 - NABE  PRIMARY SCHOOL.pdf",
-              "fileName": "108 - NABE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "109 - MKOMBOZI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/109 - MKOMBOZI  PRIMARY SCHOOL.pdf",
-              "fileName": "109 - MKOMBOZI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "11 - BUNASANI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/11 - BUNASANI  PRIMARY SCHOOL.pdf",
-              "fileName": "11 - BUNASANI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "110 - USHETU MORDEN  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/110 - USHETU MORDEN  PRIMARY SCHOOL.pdf",
-              "fileName": "110 - USHETU MORDEN  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "112 - KAMUNDU  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/112 - KAMUNDU  PRIMARY SCHOOL.pdf",
-              "fileName": "112 - KAMUNDU  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "113 - CHANG'OMBE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/113 - CHANG'OMBE  PRIMARY SCHOOL.pdf",
-              "fileName": "113 - CHANG'OMBE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "114 - SENAI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/114 - SENAI  PRIMARY SCHOOL.pdf",
-              "fileName": "114 - SENAI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "116 - LYABUKANDA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/116 - LYABUKANDA  PRIMARY SCHOOL.pdf",
-              "fileName": "116 - LYABUKANDA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "117 - MWABOMBA 'B'  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/117 - MWABOMBA 'B'  PRIMARY SCHOOL.pdf",
-              "fileName": "117 - MWABOMBA 'B'  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "118 - NONDWE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/118 - NONDWE  PRIMARY SCHOOL.pdf",
-              "fileName": "118 - NONDWE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "119 - 119 PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "119 PRIMARY SCHOOL",
+              "examNo": "119",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/119 - 119 PRIMARY SCHOOL.pdf",
               "fileName": "119 - 119 PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "12 - BUSENDA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/12 - BUSENDA  PRIMARY SCHOOL.pdf",
-              "fileName": "12 - BUSENDA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "120 - 120 PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "120 PRIMARY SCHOOL",
+              "examNo": "120",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/120 - 120 PRIMARY SCHOOL.pdf",
               "fileName": "120 - 120 PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "121 - 121 PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "121 PRIMARY SCHOOL",
+              "examNo": "121",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/121 - 121 PRIMARY SCHOOL.pdf",
               "fileName": "121 - 121 PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "121 - KAMYANGULI PRE AND  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/121 - KAMYANGULI PRE AND  PRIMARY SCHOOL.pdf",
-              "fileName": "121 - KAMYANGULI PRE AND  PRIMARY SCHOOL.pdf"
+              "name": "BUBUNGU  PRIMARY SCHOOL",
+              "examNo": "1",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/1 - BUBUNGU  PRIMARY SCHOOL.pdf",
+              "fileName": "1 - BUBUNGU  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "122 - SHILABELA PRE AND  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/122 - SHILABELA PRE AND  PRIMARY SCHOOL.pdf",
-              "fileName": "122 - SHILABELA PRE AND  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "13 - BUSHIMANI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/13 - BUSHIMANI  PRIMARY SCHOOL.pdf",
-              "fileName": "13 - BUSHIMANI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "14 - BUSULWANGUKU  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/14 - BUSULWANGUKU  PRIMARY SCHOOL.pdf",
-              "fileName": "14 - BUSULWANGUKU  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "15 - BUTENDE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/15 - BUTENDE  PRIMARY SCHOOL.pdf",
-              "fileName": "15 - BUTENDE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "16 - BUTIBU  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/16 - BUTIBU  PRIMARY SCHOOL.pdf",
-              "fileName": "16 - BUTIBU  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "17 - BUZABI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/17 - BUZABI  PRIMARY SCHOOL.pdf",
-              "fileName": "17 - BUZABI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "18 - CHAMBO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/18 - CHAMBO  PRIMARY SCHOOL.pdf",
-              "fileName": "18 - CHAMBO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "19 - CHONA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/19 - CHONA  PRIMARY SCHOOL.pdf",
-              "fileName": "19 - CHONA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "2 - BUGELA  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "BUGELA  PRIMARY SCHOOL",
+              "examNo": "2",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/2 - BUGELA  PRIMARY SCHOOL.pdf",
               "fileName": "2 - BUGELA  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "20 - HONGWA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/20 - HONGWA  PRIMARY SCHOOL.pdf",
-              "fileName": "20 - HONGWA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "21 - IBAMBALA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/21 - IBAMBALA  PRIMARY SCHOOL.pdf",
-              "fileName": "21 - IBAMBALA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "22 - IBELANSUHA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/22 - IBELANSUHA  PRIMARY SCHOOL.pdf",
-              "fileName": "22 - IBELANSUHA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "23 - IBOJA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/23 - IBOJA  PRIMARY SCHOOL.pdf",
-              "fileName": "23 - IBOJA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "24 - IDAHINA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/24 - IDAHINA  PRIMARY SCHOOL.pdf",
-              "fileName": "24 - IDAHINA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "25 - IDETEMYA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/25 - IDETEMYA  PRIMARY SCHOOL.pdf",
-              "fileName": "25 - IDETEMYA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "26 - IFUNDE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/26 - IFUNDE  PRIMARY SCHOOL.pdf",
-              "fileName": "26 - IFUNDE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "27 - IGALULA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/27 - IGALULA  PRIMARY SCHOOL.pdf",
-              "fileName": "27 - IGALULA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "28 - IGUNDA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/28 - IGUNDA  PRIMARY SCHOOL.pdf",
-              "fileName": "28 - IGUNDA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "29 - IGWAMANONI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/29 - IGWAMANONI  PRIMARY SCHOOL.pdf",
-              "fileName": "29 - IGWAMANONI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "3 - BUGOMBA 'B'  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/3 - BUGOMBA 'B'  PRIMARY SCHOOL.pdf",
-              "fileName": "3 - BUGOMBA 'B'  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "30 - IHAPULA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/30 - IHAPULA  PRIMARY SCHOOL.pdf",
-              "fileName": "30 - IHAPULA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "31 - IKINA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/31 - IKINA  PRIMARY SCHOOL.pdf",
-              "fileName": "31 - IKINA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "32 - ILEKEBU  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/32 - ILEKEBU  PRIMARY SCHOOL.pdf",
-              "fileName": "32 - ILEKEBU  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "33 - ILEMVE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/33 - ILEMVE  PRIMARY SCHOOL.pdf",
-              "fileName": "33 - ILEMVE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "34 - ILOMELO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/34 - ILOMELO  PRIMARY SCHOOL.pdf",
-              "fileName": "34 - ILOMELO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "35 - ILWILO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/35 - ILWILO  PRIMARY SCHOOL.pdf",
-              "fileName": "35 - ILWILO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "36 - IPONYANHOLO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/36 - IPONYANHOLO  PRIMARY SCHOOL.pdf",
-              "fileName": "36 - IPONYANHOLO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "37 - IRAMBA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/37 - IRAMBA  PRIMARY SCHOOL.pdf",
-              "fileName": "37 - IRAMBA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "38 - ISANGA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/38 - ISANGA  PRIMARY SCHOOL.pdf",
-              "fileName": "38 - ISANGA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "39 - ISHILA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/39 - ISHILA  PRIMARY SCHOOL.pdf",
-              "fileName": "39 - ISHILA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "4 - BUGOMBA  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "BUGOMBA  PRIMARY SCHOOL",
+              "examNo": "4",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/4 - BUGOMBA  PRIMARY SCHOOL.pdf",
               "fileName": "4 - BUGOMBA  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "40 - ITALIKE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/40 - ITALIKE  PRIMARY SCHOOL.pdf",
-              "fileName": "40 - ITALIKE  PRIMARY SCHOOL.pdf"
+              "name": "BUGOMBA 'B'  PRIMARY SCHOOL",
+              "examNo": "3",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/3 - BUGOMBA 'B'  PRIMARY SCHOOL.pdf",
+              "fileName": "3 - BUGOMBA 'B'  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "41 - ITEBELE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/41 - ITEBELE  PRIMARY SCHOOL.pdf",
-              "fileName": "41 - ITEBELE  PRIMARY SCHOOL.pdf"
+              "name": "BUGOSHI  PRIMARY SCHOOL",
+              "examNo": "101",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/101 - BUGOSHI  PRIMARY SCHOOL.pdf",
+              "fileName": "101 - BUGOSHI  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "42 - ITEGA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/42 - ITEGA  PRIMARY SCHOOL.pdf",
-              "fileName": "42 - ITEGA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "43 - ITUMBILI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/43 - ITUMBILI  PRIMARY SCHOOL.pdf",
-              "fileName": "43 - ITUMBILI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "44 - ITUMBO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/44 - ITUMBO  PRIMARY SCHOOL.pdf",
-              "fileName": "44 - ITUMBO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "45 - IYOGELO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/45 - IYOGELO  PRIMARY SCHOOL.pdf",
-              "fileName": "45 - IYOGELO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "46 - KABANGA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/46 - KABANGA  PRIMARY SCHOOL.pdf",
-              "fileName": "46 - KABANGA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "47 - KAGERA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/47 - KAGERA  PRIMARY SCHOOL.pdf",
-              "fileName": "47 - KAGERA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "48 - KALAMA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/48 - KALAMA  PRIMARY SCHOOL.pdf",
-              "fileName": "48 - KALAMA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "49 - KALO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/49 - KALO  PRIMARY SCHOOL.pdf",
-              "fileName": "49 - KALO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "5 - BUKALE  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "BUKALE  PRIMARY SCHOOL",
+              "examNo": "5",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/5 - BUKALE  PRIMARY SCHOOL.pdf",
               "fileName": "5 - BUKALE  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "50 - KANGEME  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/50 - KANGEME  PRIMARY SCHOOL.pdf",
-              "fileName": "50 - KANGEME  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "51 - KASOMELA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/51 - KASOMELA  PRIMARY SCHOOL.pdf",
-              "fileName": "51 - KASOMELA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "52 - KAWEKUNELELA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/52 - KAWEKUNELELA  PRIMARY SCHOOL.pdf",
-              "fileName": "52 - KAWEKUNELELA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "53 - KAYENZE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/53 - KAYENZE  PRIMARY SCHOOL.pdf",
-              "fileName": "53 - KAYENZE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "54 - KIDANHA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/54 - KIDANHA  PRIMARY SCHOOL.pdf",
-              "fileName": "54 - KIDANHA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "55 - KINAMAPULA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/55 - KINAMAPULA  PRIMARY SCHOOL.pdf",
-              "fileName": "55 - KINAMAPULA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "56 - KINAMING'HWA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/56 - KINAMING'HWA  PRIMARY SCHOOL.pdf",
-              "fileName": "56 - KINAMING'HWA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "57 - KIPANGU  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/57 - KIPANGU  PRIMARY SCHOOL.pdf",
-              "fileName": "57 - KIPANGU  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "58 - KISUKE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/58 - KISUKE  PRIMARY SCHOOL.pdf",
-              "fileName": "58 - KISUKE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "59 - KITONGO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/59 - KITONGO  PRIMARY SCHOOL.pdf",
-              "fileName": "59 - KITONGO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "6 - BUKINDWASALI  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "BUKINDWASALI  PRIMARY SCHOOL",
+              "examNo": "6",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/6 - BUKINDWASALI  PRIMARY SCHOOL.pdf",
               "fileName": "6 - BUKINDWASALI  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "60 - LUHAGA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/60 - LUHAGA  PRIMARY SCHOOL.pdf",
-              "fileName": "60 - LUHAGA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "61 - LUSHELO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/61 - LUSHELO  PRIMARY SCHOOL.pdf",
-              "fileName": "61 - LUSHELO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "62 - LUSONZO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/62 - LUSONZO  PRIMARY SCHOOL.pdf",
-              "fileName": "62 - LUSONZO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "63 - MANUNGU  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/63 - MANUNGU  PRIMARY SCHOOL.pdf",
-              "fileName": "63 - MANUNGU  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "64 - MAPAMBA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/64 - MAPAMBA  PRIMARY SCHOOL.pdf",
-              "fileName": "64 - MAPAMBA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "65 - MBUTA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/65 - MBUTA  PRIMARY SCHOOL.pdf",
-              "fileName": "65 - MBUTA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "66 - MHUGE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/66 - MHUGE  PRIMARY SCHOOL.pdf",
-              "fileName": "66 - MHUGE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "67 - MITONGA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/67 - MITONGA  PRIMARY SCHOOL.pdf",
-              "fileName": "67 - MITONGA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "68 - MKWANGULWA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/68 - MKWANGULWA  PRIMARY SCHOOL.pdf",
-              "fileName": "68 - MKWANGULWA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "69 - MPUNZE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/69 - MPUNZE  PRIMARY SCHOOL.pdf",
-              "fileName": "69 - MPUNZE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "7 - BUKOMELA  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "BUKOMELA  PRIMARY SCHOOL",
+              "examNo": "7",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/7 - BUKOMELA  PRIMARY SCHOOL.pdf",
               "fileName": "7 - BUKOMELA  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "70 - MSEKI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/70 - MSEKI  PRIMARY SCHOOL.pdf",
-              "fileName": "70 - MSEKI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "71 - MULUNGU  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/71 - MULUNGU  PRIMARY SCHOOL.pdf",
-              "fileName": "71 - MULUNGU  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "73 - MWADUI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/73 - MWADUI  PRIMARY SCHOOL.pdf",
-              "fileName": "73 - MWADUI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "74 - MWAMANYILI  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/74 - MWAMANYILI  PRIMARY SCHOOL.pdf",
-              "fileName": "74 - MWAMANYILI  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "75 - NAKAZYOBA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/75 - NAKAZYOBA  PRIMARY SCHOOL.pdf",
-              "fileName": "75 - NAKAZYOBA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "76 - NGOKOLO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/76 - NGOKOLO  PRIMARY SCHOOL.pdf",
-              "fileName": "76 - NGOKOLO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "77 - NHIMBO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/77 - NHIMBO  PRIMARY SCHOOL.pdf",
-              "fileName": "77 - NHIMBO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "78 - NONWE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/78 - NONWE  PRIMARY SCHOOL.pdf",
-              "fileName": "78 - NONWE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "79 - NSALABA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/79 - NSALABA  PRIMARY SCHOOL.pdf",
-              "fileName": "79 - NSALABA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "8 - BUKWIMBA  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "BUKWIMBA  PRIMARY SCHOOL",
+              "examNo": "8",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/8 - BUKWIMBA  PRIMARY SCHOOL.pdf",
               "fileName": "8 - BUKWIMBA  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "80 - NSHIMBA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/80 - NSHIMBA  PRIMARY SCHOOL.pdf",
-              "fileName": "80 - NSHIMBA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "81 - NSUNGA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/81 - NSUNGA  PRIMARY SCHOOL.pdf",
-              "fileName": "81 - NSUNGA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "82 - NUSSA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/82 - NUSSA  PRIMARY SCHOOL.pdf",
-              "fileName": "82 - NUSSA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "83 - NYABUSALU  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/83 - NYABUSALU  PRIMARY SCHOOL.pdf",
-              "fileName": "83 - NYABUSALU  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "84 - NYAKASHATALA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/84 - NYAKASHATALA  PRIMARY SCHOOL.pdf",
-              "fileName": "84 - NYAKASHATALA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "85 - NYALWELWE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/85 - NYALWELWE  PRIMARY SCHOOL.pdf",
-              "fileName": "85 - NYALWELWE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "86 - NYAMILANGANO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/86 - NYAMILANGANO  PRIMARY SCHOOL.pdf",
-              "fileName": "86 - NYAMILANGANO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "87 - NYAMKONDO  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/87 - NYAMKONDO  PRIMARY SCHOOL.pdf",
-              "fileName": "87 - NYAMKONDO  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "88 - NYAMTENGELA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/88 - NYAMTENGELA  PRIMARY SCHOOL.pdf",
-              "fileName": "88 - NYAMTENGELA  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "89 - NYANKENDE  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/89 - NYANKENDE  PRIMARY SCHOOL.pdf",
-              "fileName": "89 - NYANKENDE  PRIMARY SCHOOL.pdf"
-            },
-            {
-              "name": "9 - BULIMA  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "BULIMA  PRIMARY SCHOOL",
+              "examNo": "9",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/9 - BULIMA  PRIMARY SCHOOL.pdf",
               "fileName": "9 - BULIMA  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "90 - NYAWISHI  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "BUNANDA  PRIMARY SCHOOL",
+              "examNo": "10",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/10 - BUNANDA  PRIMARY SCHOOL.pdf",
+              "fileName": "10 - BUNANDA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "BUNASANI  PRIMARY SCHOOL",
+              "examNo": "11",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/11 - BUNASANI  PRIMARY SCHOOL.pdf",
+              "fileName": "11 - BUNASANI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "BUSENDA  PRIMARY SCHOOL",
+              "examNo": "12",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/12 - BUSENDA  PRIMARY SCHOOL.pdf",
+              "fileName": "12 - BUSENDA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "BUSHIMANI  PRIMARY SCHOOL",
+              "examNo": "13",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/13 - BUSHIMANI  PRIMARY SCHOOL.pdf",
+              "fileName": "13 - BUSHIMANI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "BUSULWANGUKU  PRIMARY SCHOOL",
+              "examNo": "14",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/14 - BUSULWANGUKU  PRIMARY SCHOOL.pdf",
+              "fileName": "14 - BUSULWANGUKU  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "BUTENDE  PRIMARY SCHOOL",
+              "examNo": "15",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/15 - BUTENDE  PRIMARY SCHOOL.pdf",
+              "fileName": "15 - BUTENDE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "BUTIBU  PRIMARY SCHOOL",
+              "examNo": "16",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/16 - BUTIBU  PRIMARY SCHOOL.pdf",
+              "fileName": "16 - BUTIBU  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "BUZABI  PRIMARY SCHOOL",
+              "examNo": "17",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/17 - BUZABI  PRIMARY SCHOOL.pdf",
+              "fileName": "17 - BUZABI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "CHAMBO  PRIMARY SCHOOL",
+              "examNo": "18",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/18 - CHAMBO  PRIMARY SCHOOL.pdf",
+              "fileName": "18 - CHAMBO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "CHAMVA  PRIMARY SCHOOL",
+              "examNo": "99",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/99 - CHAMVA  PRIMARY SCHOOL.pdf",
+              "fileName": "99 - CHAMVA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "CHANG'OMBE  PRIMARY SCHOOL",
+              "examNo": "113",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/113 - CHANG'OMBE  PRIMARY SCHOOL.pdf",
+              "fileName": "113 - CHANG'OMBE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "CHONA  PRIMARY SCHOOL",
+              "examNo": "19",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/19 - CHONA  PRIMARY SCHOOL.pdf",
+              "fileName": "19 - CHONA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "HONGWA  PRIMARY SCHOOL",
+              "examNo": "20",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/20 - HONGWA  PRIMARY SCHOOL.pdf",
+              "fileName": "20 - HONGWA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IBAMBALA  PRIMARY SCHOOL",
+              "examNo": "21",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/21 - IBAMBALA  PRIMARY SCHOOL.pdf",
+              "fileName": "21 - IBAMBALA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IBELANSUHA  PRIMARY SCHOOL",
+              "examNo": "22",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/22 - IBELANSUHA  PRIMARY SCHOOL.pdf",
+              "fileName": "22 - IBELANSUHA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IBOJA  PRIMARY SCHOOL",
+              "examNo": "23",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/23 - IBOJA  PRIMARY SCHOOL.pdf",
+              "fileName": "23 - IBOJA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IDAHINA  PRIMARY SCHOOL",
+              "examNo": "24",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/24 - IDAHINA  PRIMARY SCHOOL.pdf",
+              "fileName": "24 - IDAHINA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IDETEMYA  PRIMARY SCHOOL",
+              "examNo": "25",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/25 - IDETEMYA  PRIMARY SCHOOL.pdf",
+              "fileName": "25 - IDETEMYA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IFUNDE  PRIMARY SCHOOL",
+              "examNo": "26",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/26 - IFUNDE  PRIMARY SCHOOL.pdf",
+              "fileName": "26 - IFUNDE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IGALULA  PRIMARY SCHOOL",
+              "examNo": "27",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/27 - IGALULA  PRIMARY SCHOOL.pdf",
+              "fileName": "27 - IGALULA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IGUNDA  PRIMARY SCHOOL",
+              "examNo": "28",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/28 - IGUNDA  PRIMARY SCHOOL.pdf",
+              "fileName": "28 - IGUNDA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IGWAMANONI  PRIMARY SCHOOL",
+              "examNo": "29",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/29 - IGWAMANONI  PRIMARY SCHOOL.pdf",
+              "fileName": "29 - IGWAMANONI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IHAPULA  PRIMARY SCHOOL",
+              "examNo": "30",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/30 - IHAPULA  PRIMARY SCHOOL.pdf",
+              "fileName": "30 - IHAPULA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IKINA  PRIMARY SCHOOL",
+              "examNo": "31",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/31 - IKINA  PRIMARY SCHOOL.pdf",
+              "fileName": "31 - IKINA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ILEKEBU  PRIMARY SCHOOL",
+              "examNo": "32",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/32 - ILEKEBU  PRIMARY SCHOOL.pdf",
+              "fileName": "32 - ILEKEBU  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ILEMVE  PRIMARY SCHOOL",
+              "examNo": "33",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/33 - ILEMVE  PRIMARY SCHOOL.pdf",
+              "fileName": "33 - ILEMVE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ILOMELO  PRIMARY SCHOOL",
+              "examNo": "34",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/34 - ILOMELO  PRIMARY SCHOOL.pdf",
+              "fileName": "34 - ILOMELO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ILWILO  PRIMARY SCHOOL",
+              "examNo": "35",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/35 - ILWILO  PRIMARY SCHOOL.pdf",
+              "fileName": "35 - ILWILO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IPONYANHOLO  PRIMARY SCHOOL",
+              "examNo": "36",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/36 - IPONYANHOLO  PRIMARY SCHOOL.pdf",
+              "fileName": "36 - IPONYANHOLO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IRAMBA  PRIMARY SCHOOL",
+              "examNo": "37",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/37 - IRAMBA  PRIMARY SCHOOL.pdf",
+              "fileName": "37 - IRAMBA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ISANGA  PRIMARY SCHOOL",
+              "examNo": "38",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/38 - ISANGA  PRIMARY SCHOOL.pdf",
+              "fileName": "38 - ISANGA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ISHILA  PRIMARY SCHOOL",
+              "examNo": "39",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/39 - ISHILA  PRIMARY SCHOOL.pdf",
+              "fileName": "39 - ISHILA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ITALIKE  PRIMARY SCHOOL",
+              "examNo": "40",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/40 - ITALIKE  PRIMARY SCHOOL.pdf",
+              "fileName": "40 - ITALIKE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ITEBELE  PRIMARY SCHOOL",
+              "examNo": "41",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/41 - ITEBELE  PRIMARY SCHOOL.pdf",
+              "fileName": "41 - ITEBELE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ITEGA  PRIMARY SCHOOL",
+              "examNo": "42",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/42 - ITEGA  PRIMARY SCHOOL.pdf",
+              "fileName": "42 - ITEGA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ITUMBILI  PRIMARY SCHOOL",
+              "examNo": "43",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/43 - ITUMBILI  PRIMARY SCHOOL.pdf",
+              "fileName": "43 - ITUMBILI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "ITUMBO  PRIMARY SCHOOL",
+              "examNo": "44",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/44 - ITUMBO  PRIMARY SCHOOL.pdf",
+              "fileName": "44 - ITUMBO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "IYOGELO  PRIMARY SCHOOL",
+              "examNo": "45",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/45 - IYOGELO  PRIMARY SCHOOL.pdf",
+              "fileName": "45 - IYOGELO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KABANGA  PRIMARY SCHOOL",
+              "examNo": "46",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/46 - KABANGA  PRIMARY SCHOOL.pdf",
+              "fileName": "46 - KABANGA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KAGERA  PRIMARY SCHOOL",
+              "examNo": "47",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/47 - KAGERA  PRIMARY SCHOOL.pdf",
+              "fileName": "47 - KAGERA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KALAMA  PRIMARY SCHOOL",
+              "examNo": "48",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/48 - KALAMA  PRIMARY SCHOOL.pdf",
+              "fileName": "48 - KALAMA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KALO  PRIMARY SCHOOL",
+              "examNo": "49",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/49 - KALO  PRIMARY SCHOOL.pdf",
+              "fileName": "49 - KALO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KAMUNDU  PRIMARY SCHOOL",
+              "examNo": "112",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/112 - KAMUNDU  PRIMARY SCHOOL.pdf",
+              "fileName": "112 - KAMUNDU  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KAMYANGULI PRE AND  PRIMARY SCHOOL",
+              "examNo": "121",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/121 - KAMYANGULI PRE AND  PRIMARY SCHOOL.pdf",
+              "fileName": "121 - KAMYANGULI PRE AND  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KANGEME  PRIMARY SCHOOL",
+              "examNo": "50",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/50 - KANGEME  PRIMARY SCHOOL.pdf",
+              "fileName": "50 - KANGEME  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KASOMELA  PRIMARY SCHOOL",
+              "examNo": "51",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/51 - KASOMELA  PRIMARY SCHOOL.pdf",
+              "fileName": "51 - KASOMELA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KAWEKAMO  PRIMARY SCHOOL",
+              "examNo": "104",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/104 - KAWEKAMO  PRIMARY SCHOOL.pdf",
+              "fileName": "104 - KAWEKAMO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KAWEKUNELELA  PRIMARY SCHOOL",
+              "examNo": "52",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/52 - KAWEKUNELELA  PRIMARY SCHOOL.pdf",
+              "fileName": "52 - KAWEKUNELELA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KAYENZE  PRIMARY SCHOOL",
+              "examNo": "53",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/53 - KAYENZE  PRIMARY SCHOOL.pdf",
+              "fileName": "53 - KAYENZE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KIDANHA  PRIMARY SCHOOL",
+              "examNo": "54",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/54 - KIDANHA  PRIMARY SCHOOL.pdf",
+              "fileName": "54 - KIDANHA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KINAMAPULA  PRIMARY SCHOOL",
+              "examNo": "55",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/55 - KINAMAPULA  PRIMARY SCHOOL.pdf",
+              "fileName": "55 - KINAMAPULA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KINAMING'HWA  PRIMARY SCHOOL",
+              "examNo": "56",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/56 - KINAMING'HWA  PRIMARY SCHOOL.pdf",
+              "fileName": "56 - KINAMING'HWA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KIPANGU  PRIMARY SCHOOL",
+              "examNo": "57",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/57 - KIPANGU  PRIMARY SCHOOL.pdf",
+              "fileName": "57 - KIPANGU  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KISUKE  PRIMARY SCHOOL",
+              "examNo": "58",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/58 - KISUKE  PRIMARY SCHOOL.pdf",
+              "fileName": "58 - KISUKE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "KITONGO  PRIMARY SCHOOL",
+              "examNo": "59",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/59 - KITONGO  PRIMARY SCHOOL.pdf",
+              "fileName": "59 - KITONGO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "LUHAGA  PRIMARY SCHOOL",
+              "examNo": "60",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/60 - LUHAGA  PRIMARY SCHOOL.pdf",
+              "fileName": "60 - LUHAGA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "LUSHELO  PRIMARY SCHOOL",
+              "examNo": "61",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/61 - LUSHELO  PRIMARY SCHOOL.pdf",
+              "fileName": "61 - LUSHELO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "LUSONZO  PRIMARY SCHOOL",
+              "examNo": "62",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/62 - LUSONZO  PRIMARY SCHOOL.pdf",
+              "fileName": "62 - LUSONZO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "LYABUKANDA  PRIMARY SCHOOL",
+              "examNo": "116",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/116 - LYABUKANDA  PRIMARY SCHOOL.pdf",
+              "fileName": "116 - LYABUKANDA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MANUNGU  PRIMARY SCHOOL",
+              "examNo": "63",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/63 - MANUNGU  PRIMARY SCHOOL.pdf",
+              "fileName": "63 - MANUNGU  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MAPAMBA  PRIMARY SCHOOL",
+              "examNo": "64",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/64 - MAPAMBA  PRIMARY SCHOOL.pdf",
+              "fileName": "64 - MAPAMBA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MBUTA  PRIMARY SCHOOL",
+              "examNo": "65",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/65 - MBUTA  PRIMARY SCHOOL.pdf",
+              "fileName": "65 - MBUTA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MHUGE  PRIMARY SCHOOL",
+              "examNo": "66",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/66 - MHUGE  PRIMARY SCHOOL.pdf",
+              "fileName": "66 - MHUGE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MIKWA  PRIMARY SCHOOL",
+              "examNo": "103",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/103 - MIKWA  PRIMARY SCHOOL.pdf",
+              "fileName": "103 - MIKWA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MITONGA  PRIMARY SCHOOL",
+              "examNo": "67",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/67 - MITONGA  PRIMARY SCHOOL.pdf",
+              "fileName": "67 - MITONGA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MKOMBOZI  PRIMARY SCHOOL",
+              "examNo": "109",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/109 - MKOMBOZI  PRIMARY SCHOOL.pdf",
+              "fileName": "109 - MKOMBOZI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MKWANGULWA  PRIMARY SCHOOL",
+              "examNo": "68",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/68 - MKWANGULWA  PRIMARY SCHOOL.pdf",
+              "fileName": "68 - MKWANGULWA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MLIZA  PRIMARY SCHOOL",
+              "examNo": "105",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/105 - MLIZA  PRIMARY SCHOOL.pdf",
+              "fileName": "105 - MLIZA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MPUNZE  PRIMARY SCHOOL",
+              "examNo": "69",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/69 - MPUNZE  PRIMARY SCHOOL.pdf",
+              "fileName": "69 - MPUNZE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MSEKI  PRIMARY SCHOOL",
+              "examNo": "70",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/70 - MSEKI  PRIMARY SCHOOL.pdf",
+              "fileName": "70 - MSEKI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MULUNGU  PRIMARY SCHOOL",
+              "examNo": "71",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/71 - MULUNGU  PRIMARY SCHOOL.pdf",
+              "fileName": "71 - MULUNGU  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MWABOMBA 'B'  PRIMARY SCHOOL",
+              "examNo": "117",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/117 - MWABOMBA 'B'  PRIMARY SCHOOL.pdf",
+              "fileName": "117 - MWABOMBA 'B'  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MWADUI  PRIMARY SCHOOL",
+              "examNo": "73",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/73 - MWADUI  PRIMARY SCHOOL.pdf",
+              "fileName": "73 - MWADUI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "MWAMANYILI  PRIMARY SCHOOL",
+              "examNo": "74",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/74 - MWAMANYILI  PRIMARY SCHOOL.pdf",
+              "fileName": "74 - MWAMANYILI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NABE  PRIMARY SCHOOL",
+              "examNo": "108",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/108 - NABE  PRIMARY SCHOOL.pdf",
+              "fileName": "108 - NABE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NAKAZYOBA  PRIMARY SCHOOL",
+              "examNo": "75",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/75 - NAKAZYOBA  PRIMARY SCHOOL.pdf",
+              "fileName": "75 - NAKAZYOBA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NGILIMBA  PRIMARY SCHOOL",
+              "examNo": "107",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/107 - NGILIMBA  PRIMARY SCHOOL.pdf",
+              "fileName": "107 - NGILIMBA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NGOKOLO  PRIMARY SCHOOL",
+              "examNo": "76",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/76 - NGOKOLO  PRIMARY SCHOOL.pdf",
+              "fileName": "76 - NGOKOLO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NHIMBO  PRIMARY SCHOOL",
+              "examNo": "77",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/77 - NHIMBO  PRIMARY SCHOOL.pdf",
+              "fileName": "77 - NHIMBO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NONDWE  PRIMARY SCHOOL",
+              "examNo": "118",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/118 - NONDWE  PRIMARY SCHOOL.pdf",
+              "fileName": "118 - NONDWE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NONWE  PRIMARY SCHOOL",
+              "examNo": "78",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/78 - NONWE  PRIMARY SCHOOL.pdf",
+              "fileName": "78 - NONWE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NSALABA  PRIMARY SCHOOL",
+              "examNo": "79",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/79 - NSALABA  PRIMARY SCHOOL.pdf",
+              "fileName": "79 - NSALABA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NSHIMBA  PRIMARY SCHOOL",
+              "examNo": "80",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/80 - NSHIMBA  PRIMARY SCHOOL.pdf",
+              "fileName": "80 - NSHIMBA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NSUNGA  PRIMARY SCHOOL",
+              "examNo": "81",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/81 - NSUNGA  PRIMARY SCHOOL.pdf",
+              "fileName": "81 - NSUNGA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NUSSA  PRIMARY SCHOOL",
+              "examNo": "82",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/82 - NUSSA  PRIMARY SCHOOL.pdf",
+              "fileName": "82 - NUSSA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NYABUSALU  PRIMARY SCHOOL",
+              "examNo": "83",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/83 - NYABUSALU  PRIMARY SCHOOL.pdf",
+              "fileName": "83 - NYABUSALU  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NYAKASHATALA  PRIMARY SCHOOL",
+              "examNo": "84",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/84 - NYAKASHATALA  PRIMARY SCHOOL.pdf",
+              "fileName": "84 - NYAKASHATALA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NYALWELWE  PRIMARY SCHOOL",
+              "examNo": "85",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/85 - NYALWELWE  PRIMARY SCHOOL.pdf",
+              "fileName": "85 - NYALWELWE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NYAMBESHI  PRIMARY SCHOOL",
+              "examNo": "102",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/102 - NYAMBESHI  PRIMARY SCHOOL.pdf",
+              "fileName": "102 - NYAMBESHI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NYAMILANGANO  PRIMARY SCHOOL",
+              "examNo": "86",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/86 - NYAMILANGANO  PRIMARY SCHOOL.pdf",
+              "fileName": "86 - NYAMILANGANO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NYAMKONDO  PRIMARY SCHOOL",
+              "examNo": "87",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/87 - NYAMKONDO  PRIMARY SCHOOL.pdf",
+              "fileName": "87 - NYAMKONDO  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NYAMTENGELA  PRIMARY SCHOOL",
+              "examNo": "88",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/88 - NYAMTENGELA  PRIMARY SCHOOL.pdf",
+              "fileName": "88 - NYAMTENGELA  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NYANKENDE  PRIMARY SCHOOL",
+              "examNo": "89",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/89 - NYANKENDE  PRIMARY SCHOOL.pdf",
+              "fileName": "89 - NYANKENDE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "NYAWISHI  PRIMARY SCHOOL",
+              "examNo": "90",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/90 - NYAWISHI  PRIMARY SCHOOL.pdf",
               "fileName": "90 - NYAWISHI  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "91 - SABASABINI  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "SABASABINI  PRIMARY SCHOOL",
+              "examNo": "91",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/91 - SABASABINI  PRIMARY SCHOOL.pdf",
               "fileName": "91 - SABASABINI  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "92 - SELYA  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "SALAWE  PRIMARY SCHOOL",
+              "examNo": "100",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/100 - SALAWE  PRIMARY SCHOOL.pdf",
+              "fileName": "100 - SALAWE  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "SELYA  PRIMARY SCHOOL",
+              "examNo": "92",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/92 - SELYA  PRIMARY SCHOOL.pdf",
               "fileName": "92 - SELYA  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "93 - SINWANKERE  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "SENAI  PRIMARY SCHOOL",
+              "examNo": "114",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/114 - SENAI  PRIMARY SCHOOL.pdf",
+              "fileName": "114 - SENAI  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "SHILABELA PRE AND  PRIMARY SCHOOL",
+              "examNo": "122",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/122 - SHILABELA PRE AND  PRIMARY SCHOOL.pdf",
+              "fileName": "122 - SHILABELA PRE AND  PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "SINWANKERE  PRIMARY SCHOOL",
+              "examNo": "93",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/93 - SINWANKERE  PRIMARY SCHOOL.pdf",
               "fileName": "93 - SINWANKERE  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "94 - SONGAMBELE  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "SONGAMBELE  PRIMARY SCHOOL",
+              "examNo": "94",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/94 - SONGAMBELE  PRIMARY SCHOOL.pdf",
               "fileName": "94 - SONGAMBELE  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "95 - UBAGWE  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "STELLA MATUTINA   PRIMARY SCHOOL",
+              "examNo": "106",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/106 - STELLA MATUTINA   PRIMARY SCHOOL.pdf",
+              "fileName": "106 - STELLA MATUTINA   PRIMARY SCHOOL.pdf"
+            },
+            {
+              "name": "UBAGWE  PRIMARY SCHOOL",
+              "examNo": "95",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/95 - UBAGWE  PRIMARY SCHOOL.pdf",
               "fileName": "95 - UBAGWE  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "96 - UKUNE  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "UKUNE  PRIMARY SCHOOL",
+              "examNo": "96",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/96 - UKUNE  PRIMARY SCHOOL.pdf",
               "fileName": "96 - UKUNE  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "97 - ULOWA  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "ULOWA  PRIMARY SCHOOL",
+              "examNo": "97",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/97 - ULOWA  PRIMARY SCHOOL.pdf",
               "fileName": "97 - ULOWA  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "98 - USHETU  PRIMARY SCHOOL",
-              "examNo": "",
+              "name": "USHETU  PRIMARY SCHOOL",
+              "examNo": "98",
               "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/98 - USHETU  PRIMARY SCHOOL.pdf",
               "fileName": "98 - USHETU  PRIMARY SCHOOL.pdf"
             },
             {
-              "name": "99 - CHAMVA  PRIMARY SCHOOL",
-              "examNo": "",
-              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/99 - CHAMVA  PRIMARY SCHOOL.pdf",
-              "fileName": "99 - CHAMVA  PRIMARY SCHOOL.pdf"
+              "name": "USHETU MORDEN  PRIMARY SCHOOL",
+              "examNo": "110",
+              "pdfPath": "/regions/SHINYANGA REGION/USHETU 7/110 - USHETU MORDEN  PRIMARY SCHOOL.pdf",
+              "fileName": "110 - USHETU MORDEN  PRIMARY SCHOOL.pdf"
             }
           ],
           "schoolCount": 120
