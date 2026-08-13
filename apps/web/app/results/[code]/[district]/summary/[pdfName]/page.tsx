@@ -55,7 +55,7 @@ export default function DistrictSummaryPage() {
 
   return (
     <div className="fixed inset-0 bg-background">
-      <PDFViewer src={pdf.pdfPath} fileName={pdf.fileName} />
+      <PDFViewer src={encodeURI(pdf.pdfPath)} fileName={pdf.fileName} />
     </div>
   )
 }

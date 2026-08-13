@@ -18,11 +18,13 @@ function listPdfsWithin(dir) {
 function parseSchoolFileName(fileName) {
   // Pattern: "PS1308001 - AZIMIO PRIMARY SCHOOL.pdf"
   // or "ps1308036 - KAMISA PRIMARY SCHOOL.pdf"
-  // or "PS1308034` - KAKOBE PRIMARY SCHOOL.pdf"
+  // or "PS 1302249 - RIPEN PRIMARY SCHOOL.pdf" (space between PS and number)
+  // or "PS.1302035 - IBINDO PRIMARY SCHOOL.pdf" (dot between PS and number)
+  // or "PS130202J9 - GATULI PRIMARY SCHOOL.pdf" (letter mixed in number)
   const base = fileName.replace(/\.pdf$/i, "")
-  const match = base.match(/^([A-Za-z]{2}\d+)\s*[-`]\s*(.+)$/)
+  const match = base.match(/^([A-Za-z]{2})[\s.]?\s*([A-Za-z0-9]+)\s*[-`]\s*(.+)$/)
   if (match) {
-    return { examNo: match[1].toUpperCase(), name: match[2].trim() }
+    return { examNo: (match[1] + match[2]).toUpperCase(), name: match[3].trim() }
   }
   // Fallback: just use the whole name
   return { examNo: "", name: base.trim() }

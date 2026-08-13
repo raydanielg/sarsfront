@@ -50,7 +50,7 @@ export default function SchoolResultsPage() {
 
   return (
     <div className="fixed inset-0 bg-background">
-      <PDFViewer src={school.pdfPath} fileName={school.fileName} />
+      <PDFViewer src={encodeURI(school.pdfPath)} fileName={school.fileName} />
     </div>
   )
 }
