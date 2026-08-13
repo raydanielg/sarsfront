@@ -57,9 +57,13 @@ export function getSchools(regionCode: string, districtName: string): School[] {
   return district?.schools ?? []
 }
 
-export function getSchool(regionCode: string, districtName: string, schoolExamNo: string): School | undefined {
+export function getSchool(regionCode: string, districtName: string, schoolIdentifier: string): School | undefined {
   const schools = getSchools(regionCode, districtName)
-  return schools.find((s) => s.examNo === schoolExamNo)
+  // First try matching by examNo (for backward compat)
+  let school = schools.find((s) => s.examNo === schoolIdentifier)
+  if (school) return school
+  // Then try matching by fileName (decoded from URL)
+  return schools.find((s) => s.fileName === schoolIdentifier)
 }
 
 export function getRegionSummaries(regionCode: string): SummaryPdf[] {

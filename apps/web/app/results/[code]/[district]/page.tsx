@@ -182,8 +182,8 @@ export default function SchoolsPage() {
               >
                 {col.map((school) => (
                   <Link
-                    key={school.examNo}
-                    href={`/results/reg_${regionCode}/${districtSlugParam}/${school.examNo}`}
+                    key={school.fileName}
+                    href={`/results/reg_${regionCode}/${districtSlugParam}/${encodeURIComponent(school.fileName)}`}
                     className="flex items-baseline gap-2 border-b border-border/40 px-3 py-2.5 text-sm transition-colors last:border-b-0 hover:bg-muted/40"
                   >
                     <span className="shrink-0 font-mono text-xs font-bold text-muted-foreground">

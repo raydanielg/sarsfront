@@ -13,10 +13,10 @@ export default function SchoolResultsPage() {
   const params = useParams()
   const regionCode = (params.code as string)?.replace("reg_", "") ?? ""
   const districtSlugParam = (params.district as string) ?? ""
-  const schoolExamNo = (params.school as string) ?? ""
+  const schoolIdentifier = decodeURIComponent((params.school as string) ?? "")
   const region = getRegionByCode(regionCode)
   const district = getDistrict(regionCode, districtSlugParam)
-  const school = getSchool(regionCode, districtSlugParam, schoolExamNo)
+  const school = getSchool(regionCode, districtSlugParam, schoolIdentifier)
 
   if (!region || !district || !school) {
     return (
